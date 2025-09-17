@@ -1,3 +1,6 @@
+# Bio
+
+I am currently pursuing engineering and have a strong interest in web development. I am proficient in HTML, CSS, JavaScript, and have experience with frameworks like React and Node.js. I enjoy building user-friendly and efficient web applications.
 ## Hi there 👋
 
 <!--
